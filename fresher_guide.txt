@@ -1,0 +1,422 @@
+
+Hey there, Freshers:
+Welcome to IIITG, a place where your coding dreams come to life! We're excited to have you on board, and we understand that starting college can be a mix of excitement and nervousness. But fear not, because at IIITG, we're more than just a campus - we're a close-knit community that will make you feel right at home.
+
+Imagine waking up to the sight of breathtaking landscapes every day. The lush green hills, cascading waterfalls, and serene lakes surrounding our campus create a tranquil environment that will inspire your coding adventures. It's a picturesque setting that sets the stage for endless possibilities.
+
+Beyond the stunning scenery, it's the people at IIITG who truly make it special. From your fellow students to the professors, we're all here to support each other and create lasting connections. The IIITG community is like one big family, where you'll find friends who share your passion for coding and a genuine desire to help you succeed.
+
+Speaking of coding, get ready to be amazed by the diverse range of coding clubs and organizations we have. Whether you're into web development, AI, cybersecurity, or software engineering, you'll find a club that aligns with your interests. These clubs are not just about coding; they're about collaboration, teamwork, and the thrill of exploring the limitless possibilities of technology together. Through these clubs, you'll not only enhance your coding skills but also forge lifelong friendships and make memories that will last a lifetime.
+
+But it doesn't end there - at IIITG, we believe in embracing interdisciplinary learning. So, while coding will be at the heart of your journey, you'll also have the opportunity to explore other fascinating fields like robotics, game development, and entrepreneurship. It's about discovering new passions, expanding your horizons, and becoming a well-rounded individual who can approach challenges from multiple perspectives.
+
+Beyond academics and coding, IIITG offers a rich tapestry of experiences that will shape your college life. From cultural festivals that celebrate the diversity of our community to sports competitions that ignite your competitive spirit, there's always something exciting happening on campus. These events not only provide entertainment but also foster a sense of belonging and unity among students.
+
+As you embark on this extraordinary coding adventure at IIITG, remember that you're not alone. The IIITG community is here to support you, uplift you, and celebrate your achievements. We're thrilled to have you join us, and we can't wait to witness your growth, both as a coder and as an individual.
+
+Welcome to IIITG, where the beauty of nature, the warmth of community, and the power of coding come together to create an unforgettable college experience. Get ready to embrace the journey, make lifelong connections, and unlock your true potential. Your adventure awaits!
+
+++) Orientation
+
+
+
+GEAR UP
+
+ After payment of the Partial Admission Fee in JOSAA/CSAB, follow these steps:
+
+·      Amount to be paid =Rs. 158500.00 – (minus)the amount paid to JoSAA/CSAB excluding processing charges.
+
+·      Pay the institute fees through SBI collect.
+
+Link: https://www.onlinesbi.sbi/sbicollect/icollecthome.htm
+
+·      Submit the proof of payment and other details through Google form.
+
+Link: https://forms.gle/iUvUoRqCa3RRKsPG6
+
+·      After submitting the details, you will receive an automatic response. Admission is liable to be cancelled if fees are not paid by 19th August, 2023.
+
+·      The physical reporting at IIIT Guwahati will be done on 18th and 19th August, 2023.
+
+·      Physical document verification will be done during physical reporting. (The list of documents to be presented is given in Annexure – I).
+
+·      The presence of a parent/guardian is mandatory during physical document verification.
+
+·      Hostel rooms will be available 18th August, 2023 onwards. No accommodation will be provided to the parents in the hostel.
+
+·      Induction Programme will start from 21st August, 2023. Programme schedule will be available on the website soon. Please note the attendance in the Induction Programme is mandatory.
+
+·      Information on loans are available at : https://www.iiitg.ac.in/Student_Loan_2021.php
+
+·      Contacts:     a) E-mail: admissions@iiitg.ac.in
+
+                          b) Mobile: 9531435223 (Office)
+
+WHAT TO BRING :
+Candidates are required to bring the original and self-attested photo copies of following documents:
+
+List of documents
+
+(I)         Class X Mark Sheet/Certificate or Aadhaar Card or Birth Certificate (for verification of Date of Birth)
+
+(II)       Class XII Mark Sheet and Certificate (Qualifying Examination)
+
+(III)     Certificate of category (SC/ST/OBC-NCL/GEN-EWS)*
+
+(IV)     Certificate for Persons with Disabilities (PwD), if applicable, issued by the competent authority as per JoSAA - 2023/CSAB - 2023 format.
+
+(V)      Medical Certificate (in specified format of JoSAA - 2023/CSAB – 2023
+
+(VI)     Passport (if applicable)
+
+(VII)   Admit card of JEE (Main).
+
+(VIII)  JoSAA/ CSAB seat allocation letter.
+
+(IX)     Receipt of payment made to JoSAA - 2023/ CSAB - 2023.
+
+(X)      Receipt(s) of IIIT Guwahati fee payment which was uploaded in Google form.
+
+(XI)     Anti-ragging form (IIIT Guwahati format)  (form will be made available to you when you report physically)– signed by student and parent/guardian.
+
+(XII)   Photo identity proof of the student (must be original, valid and non-expired)
+
+School Identity card/ PAN card/ Driving License/ voter ID/ Passport/ Aadhaar Card with photograph/ E-Aadhaar card with photograph/ Ration Card with photograph/ Class 12 Board Admit Card with photograph/ Bank Passbook with photograph
+
+(XIII) 3 recent passport-size photos
+
+ 
+
+Important Note:
+
+1.     Certificate of category: As per the Government of India format available on the JoSAA - 2023/CSAB - 2023 website, issued by the competent authority.
+
+• In case of OBC-NCL/GEN-EWS category, the certificate must be issued on orafter April 1, 2023.
+
+• Caste certificate (SC/ST/OBC-NCL) issued by Maharashtra State must be validated by Social Welfare department (in case of SC and OBC-NCL category) and Tribal Welfare department (in case of ST category) of Maharashtra Government.
+
+The SC/ST/OBC-NCL candidates of Maharashtra State have to produce their caste validity certificate as per JoSAA/CSAB – 2023.
+
+• ST certificates from Tamil Nadu State must be issued by the concerned Revenue Divisional Officer.
+
+2.     If the original certificates are not in English/Hindi, English/Hindi version/translation of such certificates, duly certified by the Principal/Director or other competent authority of the graduating Institute, will be required during the document verification process.
+
+ 
+
+Electronics requirements:    
+To be treated strictly as an opinion rather than advice.
+Laptop: A good laptop that meets the requirements of the software and memory needed for your B. Tech course. Access to lab computers is provided on Lab Days.
+
+In – detail:
+Determine Your Needs:
+Please take a look at your major and the software requirements of your courses. Some programs in Computer Science and Electronics and Communication Engineering may require specific operating systems or hardware specifications.
+
+Determine if you'll need the laptop primarily for basic tasks like word processing, web browsing, and programming or more demanding tasks like software development, data analysis, or simulations.
+
+The Operating Systems:
+
+Windows:
+
+Windows is a widely used operating system, known for its user-friendly interface and compatibility with a broad range of software and hardware.
+Many programming environments, software development tools, and engineering applications have excellent support for Windows.
+Windows offers a large selection of productivity software, including Microsoft Office suite, which is commonly used for documentation and presentations.
+It provides a robust gaming ecosystem if you're interested in gaming as a hobby or recreational activity.
+
+macOS:
+macOS, exclusive to Apple devices, offers a sleek and intuitive interface known for its ease of use and seamless integration with other Apple products.
+macOS is based on a Unix-like foundation, making it popular among developers and providing a robust command-line environment.
+It offers strong support for multimedia tasks such as video and audio editing, making it suitable for multimedia-oriented projects.
+Xcode, Apple's integrated development environment (IDE), is highly regarded for iOS and macOS app development.
+
+Linux:
+Linux is an open-source operating system with various distributions available, such as Ubuntu, Fedora, or Debian.
+Linux is highly customizable and offers excellent compatibility with programming languages and tools. It is favored by many developers and system administrators.
+It provides powerful command-line tools and offers a vast selection of open-source software and development environments.
+Linux is commonly used for server administration, scientific computing, and embedded systems development.
+
+When choosing an operating system for your college laptop, consider the following factors:
+Compatibility: Check if the software and tools you'll be using throughout your coursework are compatible with the chosen operating system. Some software or programming languages may have better support on certain OS platforms.
+User Interface: Consider the interface and usability of the operating system. Windows and macOS tend to have more user-friendly interfaces, while Linux can offer greater customization options but may require a learning curve for newcomers.
+Personal Preference: Your familiarity and comfort level with a particular operating system should be a factor in your decision-making process.
+
+Remember, it's possible to dual boot or run multiple operating systems on your laptop using virtualization software. This can be beneficial if you need to access software or tools that are specific to a particular OS. Ultimately, choose an operating system that aligns with your needs, preferences, and the software ecosystem you'll be working with throughout your studies.
+
+Performance:
+
+Look for a laptop with a modern and capable processor (CPU) to handle multitasking and resource-intensive applications like programming IDEs, simulations, or software development tools smoothly.
+Consider getting at least 8GB of RAM to ensure smooth performance while running virtual machines, compiling code, or working with large datasets.
+Opt for a solid-state drive (SSD) instead of a traditional hard drive for faster boot times and improved overall performance, especially when dealing with large codebases or datasets.
+
+Portability and Battery Life:
+
+If you'll be carrying your laptop around campus frequently, consider a lightweight and portable model that fits easily into your bag without compromising performance.
+Look for laptops with decent battery life (at least 6-8 hours) to avoid constantly searching for power outlets during classes, coding sessions, or lab work.
+
+Display and Graphics:
+
+Choose a display size and resolution that suits your preferences and needs. A larger display may be beneficial for coding, design work, or working with complex circuit diagrams.
+Consider the graphics capabilities if you'll be working with graphics-intensive tasks like 3D modeling, computer vision, or machine learning. Dedicated graphics cards can enhance performance in such tasks, but they are not essential for general coding or electronic work.
+
+Connectivity and Ports:
+
+Ensure the laptop has sufficient USB ports (preferably USB 3.0 or higher) to connect peripherals like external hard drives, microcontrollers, or programming tools.
+Check for other connectivity options like HDMI or DisplayPort for connecting to external displays, oscilloscopes, or projectors. Additionally, ensure the laptop supports Wi-Fi connectivity for coding or accessing online resources.
+
+Budget:
+
+Determine your budget range and look for laptops that offer the best value for money within that range, considering the specific hardware requirements for programming and electronics work.
+Consider refurbished or previous-generation models if needed, as they can often provide good performance at a lower cost, especially for budget-conscious students.
+Remember to check out unidays.com for extra discounts if you got your student.
+
+Research and Compare:
+
+Read reviews and compare specifications, performance, and prices of different laptop models from reputable manufacturers that are known for reliability and compatibility with programming and engineering applications.
+Take advantage of online forums, and technology websites, or seek advice from current computer science and electronics engineering students to gather firsthand experiences and recommendations on specific models or brands.
+
+Warranty and Support:
+
+Check the warranty offered by the manufacturer and any additional support options available. It's essential to have reliable customer service in case you encounter any technical issues during your college years.
+If possible third-party insurance (like onsite) is a must-have since repair can be costly after the warranty expires. Remember to take them early or with a laptop (available on Amazon and Flipkart).
+
+Some suggestions:
+Apple:
+Pros:
+Premium build quality and sleek design.
+Integration with other Apple devices and seamless ecosystem.
+Excellent customer support.
+Strong performance and reliability.
+Widely used by professionals, designers, and developers.
+Cons:
+Higher price range compared to other manufacturers.
+Do not go for it unless you have the financials. it is also costly to maintain and repairs cost a fortune
+Limited customization options.
+Limited software compatibility outside of the Apple ecosystem.
+Less gaming-oriented options.
+
+Dell:
+Pros:
+Wide range of laptops catering to different needs and budgets.
+Durability, reliability, and solid build quality.
+Good balance between performance, features, and affordability.
+The Dell XPS line offers sleek designs and powerful hardware configurations.
+Strong customer support.
+Cons:
+Some lower-end models may lack premium features.
+Limited customization options compared to boutique manufacturers.
+Can be heavier compared to ultrabook competitors.
+Battery life may vary across models.
+
+HP:
+Pros:
+Versatility and affordability with a wide range of models.
+Reliable performance and build quality.
+Various options for both consumer and business needs.
+HP EliteBook and Spectre lines offer premium features and build quality.
+Strong customer support.
+Cons:
+Some consumer-grade models may have average battery life.
+Bloatware is pre-installed on some models.
+Limited gaming-focused options compared to other manufacturers.
+Keyboard quality can vary across models.
+
+Asus:
+Pros:
+Extensive range of laptops catering to gamers, content creators, and professionals.
+Competitive pricing and good value for money.
+Strong gaming capabilities with the Republic of Gamers (ROG) series.
+Feature-rich and powerful hardware configurations.
+Innovative designs and cooling systems.
+Cons:
+Build quality may not match premium manufacturers.
+Battery life can be average on gaming models.
+Some models may have less emphasis on portability.
+Customer support can vary across regions.
+
+Lenovo:
+Pros:
+Durable and reliable laptops, particularly the ThinkPad series.
+Excellent keyboards and trackpads.
+Strong performance and business-oriented features.
+Extensive connectivity options and security features.
+ThinkPad models are popular among professionals.
+Cons:
+The design may not appeal to everyone.
+Battery life can vary across models.
+Limited customization options compared to boutique manufacturers.
+Some consumer-grade models may lack premium features.
+Customer support can be inconsistent.
+
+Fabrics:
+Double bed bedsheets (2 sets, with pillow covers): It's essential to have a couple of sets of bedsheets for your dorm or apartment. Opt for comfortable and easy-to-maintain materials like cotton or microfibre. sing bed size is suitable for the hostel's standard dorm beds.
+Mattress and pillows: Depending on your college's accommodation, you may need to arrange for a mattress and pillows. Check if your college provides them, or consider purchasing them for added comfort and a good night's sleep. Look for options that suit your preferences in terms of firmness and support.
+The college does not provide a cloth washing facility but most student group together to buy out a washing machine mostly handed down by the seniors. also, laundry service at call (check the boy's hostel notice board)is available.
+
+Calculator:
+A scientific calculator is essential, especially during the first few years of college. It will be useful for courses that involve complex calculations, such as mathematics, physics, engineering, or finance. Check with your professors or course syllabus for any specific calculator requirements.
+
+Extension cord:
+An extension cord is a practical item to have in your college dorm or study area. It allows you to easily plug in multiple devices, such as laptops, chargers, lamps, or speakers, without having to rely on limited wall outlets. Choose a cord with sufficient length and multiple outlets for convenience.
+
+Iron/Kettle/Induction:
+These items are optional and depend on your specific requirements and lifestyle. If you prefer neatly pressed clothes, consider bringing a small iron or a portable steamer.
+A kettle can come in handy for making hot beverages or instant meals. Additionally, since college allows cooking in dorms, an induction cooktop can be useful for preparing simple meals.
+Luggage Bags:
+Hard luggage large bag: This type of bag is ideal for travel purposes, allowing you to carry most of your belongings when you go on holidays or visit home during breaks. Look for durable and secure options with wheels for easy maneuverability.
+Backpack: A backpack is a versatile bag that can be used for shorter trips, day outings, or as a supplementary bag to the large one for longer trips. Choose a backpack with comfortable shoulder straps, sufficient compartments, and a suitable capacity for your needs.
+Laptop bag: A laptop bag is essential for carrying your laptop safely to classes, libraries, or study sessions. Look for a bag with a padded compartment for laptop protection, additional pockets for accessories, and comfortable shoulder straps.
+Personal Preferences:
+Raincoats and Umbrellas: Consider having a raincoat or umbrella to protect yourself from unexpected rain showers. This is especially important because of frequent rainfall and extreme heat. Being prepared for weather changes will keep you comfortable and prevent disruptions to your daily activities.
+
+
+The weather
+
+Guwahati, the largest city in the northeastern state of Assam, boasts a subtropical climate with distinct seasons. Its weather is heavily influenced by its geographical location, surrounded by hills and the Brahmaputra River.
+
+Winter (Dec - Feb):
+During winter, Guwahati experiences pleasant and cool weather, with temperatures ranging from 10°C to 20°C (50°F to 68°F). The days are sunny and comfortable, though mornings and evenings can be chilly. Light winter clothing like sweaters and jackets are sufficient to keep warm.
+
+Spring (Mar-Apr):
+As winter subsides, Guwahati transitions into spring, with moderate temperatures ranging from 20°C to 28°C (68°F to 82°F). The city bursts into colors as flowers bloom, creating an excellent time for outdoor activities and sightseeing.
+
+Summer (May-Jun):
+Summer in Guwahati is relatively hot and humid, with temperatures reaching 30°C to 38°C (86°F to 100°F), especially in June. Staying hydrated and seeking shade during the hottest parts of the day is essential. Light and breathable clothing are advisable.
+
+Monsoon (Jul - Sep):
+Monsoon is a significant feature of Guwahati's weather, with heavy rainfall starting in July due to the southwest monsoon. The rain provides relief from the summer heat but can lead to occasional flooding and traffic disruptions. The weather remains humid during this season, and the average rainfall ranges from 2500 mm to 3000 mm.
+
+Autumn (Oct - Nov):
+Autumn is a short but pleasant season in Guwahati, with mild temperatures ranging from 20°C to 28°C (68°F to 82°F). The rainfall gradually decreases, and the city's lush greenery after the monsoon makes it an excellent time to explore the surrounding natural beauty.
+
+Overall, Guwahati offers a diverse climate throughout the year, making it an attractive destination for travelers seeking varied weather conditions.
+
+Most general items and stationery can be bought around 250 m of the campus. the nearest town of Mirza is around 5 km from the college while the city Guwahati around 20 km.
+
+++) CAMPUS
+
+DINING AND MESS
+There are mess facilities in the hostel that cater to the need of both vegetarian and non-vegetarian students. Mess fess is same for veg and non-veg studentsThere are appropriate and fixed timings for dining in hostels.
+
+One Nescafe canteen is Present at the boy's hostel which functions from 6 pm to 4 am in the morning.
+Night Canteen is there in the boy's hostel which functions late at night mostly from 11:30 pm to 3 am.
+The main canteen is present in the Academic Building Which functions from morning 9 am to 9 pm.
+
+Hostel
+There is one boy and one girl hostel right now and new hostels are being constructed. Students will either be in a double room with toilet facilities shared among 8 double rooms, or in smaller double rooms with a double-decker bed, but with an attached bathroom. Each hostel has a common Dining Space, Recreation room and is manned with 24x7 security and backed with a 24-hour power backup supply, four lifts, and a high-speed internet connection. If using any high electricity-consuming appliance or device one has to pay charges as defined by the college. There are no water heater in the bathrooms.
+
+Campus-Network
+IIITG provides 24x7 campus-wide connectivity to its community. On campus, students can access high-speed (1 Gbps) LAN and Wi-fi. IIITG is part of the National Knowledge Network (NKN), which ensures a 1 Gbps connection.
+The college uses Sophos software which allows you to connect to the wifi by using "iiitg@123" as a password and sign in with your credentials after. change your password afterward.
+Steps to Change your Password:
+                 a) Click on the User portal link https://secure.iiitg.ac.in/userportal
+                 b) Enter the same Username & Password
+                 c) Click on ‘Personal’, then ‘Change password’.
+                 d) A user can visit the User Portal at any time by using the same URL and see their daily usage data.
+
+Note-You can log in in 3 concurrent devices at a time, once the work is done log out of your session.
+
+Please login with your credentials and do not use others' credentials. Using other people's username password and IIITG-Faculty SSID will be treated as an offence. .for any additional queries direct them to ict@iiitg.ac.in
+
+Library
+The IIITG library is stocked with a good number of books and online journals to cater to the needs of the students, research scholars, and faculty members of IIITG. The Library currently has 1,214 printed volumes of Books and subscribes to the IEEE, ACM, and JSTOR e-journal packages through which the users can get access to 218 journals (approx.) and 3698 conference proceedings (approx.). Users can access these online resources on their electronic devices i.e. laptops, tablets, etc. since the library is Wi-Fi enabled. The library has a spacious and well-lit reading room. It fosters an atmosphere for academic learning and ensures a decorum of discipline so that the students can concentrate their entire focus on learning.
+
+All our subscribed e-resources are accessible through our campus network. The resources are 
+a) ACM Digital Library, To access: https://dl.acm.org/ 
+b) IEEE ASPP+POP ALL,To access : https://ieeexplore.ieee.org/Xplore/home.jsp
+c) IETE Journal of Research & IETE Technical Review (in combo) (print + E Journals) . Hard Copies are available at the library and to access  IETL Journals soft copy,  kindly click on the below link
+ 
+http://iete-elan.ac.in/elan/membership/journalsTF.jsp?button=Click+to+Access+IETE+Journals
+select our category as  paid subscribers and give our subscription no J-0597
+
+d) At the library book section you can also access the available library books ( course books only) and you can also issue the library books in your account (9.30 am to 4.30 pm). You can check the library books database at Koha OPAC at IP 172.16.0.2 ( accessible through campus network/wi-fi only). You can use the library reading hall from 08.00 am to 02.00 am for your study purposes only.// time difference
+
+Laboratories
+Labs are of immense importance to studying core engineering subjects like computer science or electronics and communication. At IIITG, the labs are well equipped with state-of-the-art equipment and the latest hi-tech gadgets. The lab assistants are experienced and guide the students with competence through both curriculum and research work. Our labs foster an atmosphere of independent research under the guidance of instructors. Further, students are allowed to perform experiments individually or in a group of two.
+
+
+Reaching the campus :
+
+Remember the college has two gates one in the front and one in the back one is closed after 6 pm and is accessible only using a bike or in the foot. so avoid it as much as possible.
+The below photo describes the back and front gates. if arriving from the airport, Guwahati, or Kamakhya railway station you will most of the time come from the direction of the blue arrow shown in the below picture and A point junction will be the cut you need to take to reach the front gate.
+
+#SCREEN SHOT 47: the front gate, back gate, and cut described by A
+#SCREEN SHOT 48:point A
+#SCREEN SHOT 49:point A
+#SCREEN SHOT 50:Dont take this route
+#SCREEN SHOT 51:Take this route instead
+
+Cabs and taxi services are available at all the transportation stops.
+
+Airport: The nearest airport is Lokpriya Gopinath Bordoloi International Airport in Guwahati, The Airport is approximately 6.5 km away from our IIITG campus. After arriving at the airport, you can easily find cab services available outside. If you prefer affordable travel options, you can also step outside and look for electric rickshaws. Additionally, transport vans can be found if you head towards the highway. If you are taking a cab among the cabs waiting outside the airport, feel free to bargain a little as their charges are more than the normal transportation fees due to airport parking fees.
+
+Guwahati Railway Station: This is a major railway station located approximately 26 km from IIITG. After reaching Guwahati Railway Station, you can easily find cabs for your onward journey. Buses can easily be accessed to reach our campus located in the I.T. Park, Near Mirza.
+
+Kamakhya Railway Station: This station is situated around 19 km away from IIITG and is a common stop for many trains coming from the Siliguri corridor. it's best to exit from platform number 4 of the station. Cabs can be used. You can follow this route to reach the campus from the station: https://goo.gl/maps/eJAZGXZBNHdoV9DV6
+
+Mirza Railway Station: This station is the closest to IIITG, located about 5 km away. However, there is no direct connectivity from other parts of India to Mirza Railway Station. You can connect to Kamakhya Railway Station or Guwahati Railway Station to reach Mirza.
+
+Here is the google maps location of the College building: https://goo.gl/maps/sEYB9dXDSaZSiEJR6
+                                                              Girls Hostel: https://goo.gl/maps/GvZnKbXyNVwW7Qju6
+                                                              Boys hostel: https://goo.gl/maps/k8HV4U6kS2GGFFeJ8                    
+
+Once arrived on the campus of IIITG, do the necessary entry details at the main gate of the campus. Then, head towards your respective hostels (boys to the boy’s hostel and girls to the girls’ hostel). Approach the caretaker near the reception area, they will ask you to do some entries which are necessary for the hostel records and then you will be given your room keys. A guard will always accompany you to your room and tell you some basic details. Once you are in your room, make sure to ask the guard for room cleaning service if your room is not clean. Each student is allotted a table, fan, and chair in his room so, kindly ask the guard for the same. Now, relax a bit since you are at IIITG!
+
+
+Once arrived on the IIITG campus, do the necessary entry details at the main gate of the campus. Then, head towards your respective hostels (boys to the boy’s hostel and girls to the girls’ hostel). Approach the caretaker near the reception area, they will ask you to do some entries which are necessary for the hostel records and then you will be given your room keys. A guard will always accompany you to your room and tell you some basic details. Once you are in your room, make sure to ask the guard for room cleaning service if your room is not clean. Each student is allotted a table and a chair in his room so, kindly ask the guard for the same. Now, relax a bit since you are at IIITG!
+There are various lounges and guest houses near IIITG campus. One is on the main highway,  namely Ranjeeta. It has a family restaurant on the ground floor and accommodation is from the second floor and onwards. Moreover, it is budget-friendly as well.
+The second one is the Brahmaputra Lounge, just near our campus's main gate. It only consists of rooms and you will have to manage your meals on your own.
+Both these lounges will give you a beautiful view of our campus and the natural beauty of Guwahati Gateway to northeast India.
+
+
+Parent accommodation :
+The college does not yet provide guest accommodation and parent needs to make living arrangement outside the college.
+There are various lounges and guest houses near IIITG campus. One is on the main highway, namely Ranjeeta. It has a family restaurant on the ground floor and rooms from the second floor onwards. Moreover, it is budget-friendly as well.
+The second one is the Brahmaputra Lounge, just near our campus's main gate. It only consists of rooms and you will have to manage your meals on your own.
+
+
+Miscellaneous
+Campus policies
+btech ordinance
+//mails
+Estimate of the amount required for B.Tech students joining in 2023 // most probably
+An estimate of the total loan amount for the entire BTech. the course is detailed below:
+Tuition fees : Rs. 1,25,000 per semester * 8 semesters            -  Rs.  10,00,000.00
+Institute caution money (one-time refundable)                           -  Rs.         5,000.00
+Hostel Rent : Rs. 12,500 per semester * 8 semesters              - Rs.    1,00,000.00
+Mess dues estimated: Rs. 16000 per semester * 8 semesters -  Rs.  1,28,000.00
+Total :                                                                                         -   Rs.12,33,000.00
+
+
+Special Offers: The following special offers are available to IIIT Guwahati students:
+
+1.    Canara Bank has formulated a special Education Loan scheme as “VIDYA TURANT”. Under this scheme, the education loan is instantly sanctioned and disbursed without any collateral security with a set limit of up to Rs.30 lakhs for eligible students of various premier institutes of India. Please contact the following persons for more details:
+
+·       Himanga Bhushan Goswami, Manager, CANARA BANK, BIJOYNAGAR BRANCH, Phone No: 7002819632. E-mail id: cb17340@canarabank.com
+
+·       Vishan Raj, Manager, CANARA BANK, DHARAPUR BRANCH, Contact No: 6000616897. E-mail id: cb4255@canarabank.com
+
+·       Mukesh Kumar Dubey, Sr. Manager, Canara Bank, Retail Asset Hub, Guwahati, Contact no: 8967269069.  E-mail id: cb6825@canarabank.com
+
+2.    Punjab National Bank provides education loan assistance as a part of PNB Pratibha, for premier institutes. The loan requires no collateral security, no margin money, no processing fees, no documentation fees, and is on a 15-year repayment basis.
+
+Please contact the following Bank personnel for Loan queries.
+
+Susibrata Dutta
+Phone: - 6003021762
+Email - plp5299@pnb.co.in
+
+Pranjal Dutta
+Phone - 9774914224
+Email - pranjaldutta7@gmail.com
+
+3.    IIIT Guwahati features under List C (Sl. No. 13) of the SBI scholar loan scheme list of premier institutes whereby education loan up to Rs. 7.5 lakhs can be availed without any collateral security. For further details, please see the PDF document downloaded from the SBI scholar loan webpage or contact any SBI Branch near you. You may also contact the Branch Manager of SBI Mirza Branch near the IIIT Guwahati campus in Assam, or Mr. Ratan Kumar Kalita, Field Officer, SBI Mirza Branch at 8399820731.
+
+4.    Students may also visit https://www.kuhoo.com/ for availing of student loan facilities.
+
+
+RESOURCES
+
+//ragging
+//student code of conduct
+//btech ordinance
+//phone number and mail
+//
